@@ -12,3 +12,6 @@ Welcome to dirty's documentation!
 
    ggg.md
    README.md
+   ./ggg.md
+   ./README.md
+
