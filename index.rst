@@ -10,7 +10,7 @@ Welcome to dirty's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   ggg
+   ggg.md
    hahah
    heiheih
 
