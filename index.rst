@@ -9,10 +9,8 @@ Welcome to dirty's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
+   123123
    ggg.md
-   hahah
-   heiheih
 
 
 Indices and tables
