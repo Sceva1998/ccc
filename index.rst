@@ -11,3 +11,4 @@ Welcome to dirty's documentation!
    :caption: Contents:
 
    ggg.md
+   README.md
